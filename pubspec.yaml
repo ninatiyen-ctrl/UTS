@@ -8,18 +8,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-   # camera: ^0.11.2
-
-  # Tambahkan dependency image_picker di sini 👇
-  image_picker: ^1.0.0
+  http: ^1.1.0
+  image_picker: ^1.1.1
 
   # Kamu bisa tambahkan paket lain di bawah ini jika perlu
   cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
 
   #image_picker_for_web: ^3.1.0
   #camera_web: ^0.3.5
-  
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
