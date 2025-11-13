@@ -1,0 +1,489 @@
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: GET
+Raw Input: 
+
+Method: POST
+Raw Input: {"nama":"nina","email":"nina@","umur":"25","gender":"Perempuan","status":"Aktif","hobi":["Membaca","Menulis"]}
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: {"nama":"chandra","email":"permana@gmail.com","umur":"25","gender":"Laki-laki","status":"Aktif","hobi":["Membaca","Menulis","Olahraga"]}
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: {"nama":"chandra","email":"permnaputra@gmail","umur":"35","gender":"Laki-laki","status":"Aktif","hobi":["Membaca","Menulis","Olahraga"]}
+
+Method: POST
+Raw Input: {"nama":"chandra","email":"putra@","umur":"21","gender":"Laki-laki","status":"Aktif","hobi":["Membaca","Menulis","Olahraga","Gaming"]}
+
+Method: POST
+Raw Input: {"nama":"nina","email":"nina@","umur":"30","gender":"Perempuan","status":"Aktif","hobi":["Membaca"]}
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+REQUEST_METHOD: POST
+CONTENT_TYPE: multipart/form-data; boundary=dart-http-boundary-M2n0Rv+0uWKcob4PztX3yTNIbXfeoRfqDIyj6iLGCCSzcG_eyy1
+POST: Array
+(
+    [nama] => nina
+    [email] => nina@
+    [umur] => 30
+    [gender] => Perempuan
+    [status] => Aktif
+    [hobi] => ["Menulis"]
+)
+
+FILES: Array
+(
+    [image] => Array
+        (
+            [name] => WhatsApp Image 2025-10-21 at 07.15.30.jpeg
+            [full_path] => WhatsApp Image 2025-10-21 at 07.15.30.jpeg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php40E8.tmp
+            [error] => 0
+            [size] => 186064
+        )
+
+)
+
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+Method: POST
+Raw Input: 
+
+METHOD: POST
+POST: Array
+(
+    [nama] => cgandraavvg
+    [email] => duvfuhvduytv@
+    [umur] => 34
+    [gender] => Laki-laki
+    [status] => Aktif
+    [hobi] => ["Membaca","Menulis","Olahraga"]
+)
+
+FILES: Array
+(
+    [image] => Array
+        (
+            [name] => Welcome Scan.jpg
+            [full_path] => Welcome Scan.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php6490.tmp
+            [error] => 0
+            [size] => 516424
+        )
+
+)
+
+
+METHOD: POST
+POST: Array
+(
+    [nama] => chandra
+    [email] => permanaputrachandra@gmail.com
+    [umur] => 34
+    [gender] => Laki-laki
+    [status] => Aktif
+    [hobi] => ["Membaca","Menulis"]
+)
+
+FILES: Array
+(
+    [image] => Array
+        (
+            [name] => P1010349.JPG
+            [full_path] => P1010349.JPG
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpD093.tmp
+            [error] => 0
+            [size] => 1336313
+        )
+
+)
+
+
+METHOD: POST
+POST: Array
+(
+    [nama] => permanaputra
+    [email] => chandra@gmail.com
+    [umur] => 34
+    [gender] => Laki-laki
+    [status] => Aktif
+    [hobi] => ["Membaca","Menulis","Gaming"]
+)
+
+FILES: Array
+(
+    [image] => Array
+        (
+            [name] => Welcome Scan.jpg
+            [full_path] => Welcome Scan.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpCCAF.tmp
+            [error] => 0
+            [size] => 516424
+        )
+
+)
+
+
+METHOD: POST
+POST: Array
+(
+    [nama] => nina
+    [email] => nina@
+    [umur] => 30
+    [gender] => Perempuan
+    [status] => Aktif
+    [hobi] => ["Olahraga"]
+)
+
+FILES: Array
+(
+    [image] => Array
+        (
+            [name] => Welcome Scan.jpg
+            [full_path] => Welcome Scan.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpE167.tmp
+            [error] => 0
+            [size] => 516424
+        )
+
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
+METHOD: POST
+POST: Array
+(
+    [nama] => harry
+    [email] => mulyawan@gmail.com
+    [umur] => 34
+    [gender] => Laki-laki
+    [status] => Aktif
+    [hobi] => ["Membaca","Gaming"]
+)
+
+FILES: Array
+(
+    [image] => Array
+        (
+            [name] => Welcome Scan.jpg
+            [full_path] => Welcome Scan.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php1EA9.tmp
+            [error] => 0
+            [size] => 516424
+        )
+
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
+METHOD: GET
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+
