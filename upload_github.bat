@@ -9,7 +9,7 @@ git init
 
 REM Tambahkan remote origin (diabaikan jika sudah ada)
 git remote remove origin
-git remote add origin YOUR_REPO_URL
+git remote add origin https://github.com/ninatiyen-ctrl/UTS.git
 
 REM Add semua file
 git add .
